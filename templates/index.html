@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Information</title>
+</head>
+<body>
+    <h1>Game Information</h1>
+    <body>
+        {% for game in games %}
+            <li>
+                <strong>{{ game[0].strftime("%Y-%m-%d %H:%M") }}</strong><br>
+                <em>{{ game[1] }}</em><br>
+                <span>{{ game[2] }}</span><br>
+		{% for outing in game[3] %}
+		   	<span>{{ outing }}</span><br>
+		{% endfor %}
+		{% for outing in game[4] %}
+		   	<span>{{ outing }}</span><br>
+		{% endfor %}
+            </li>
+        {% endfor %}
+    </body>
+</body>
+</html>

@@ -1,0 +1,5032 @@
+{
+    "gameId": "2023/04/08/lanmlb-arimlb-1",
+    "teamInfo": {
+        "away": {
+            "id": 119,
+            "abbreviation": "LAD",
+            "teamName": "Dodgers",
+            "shortName": "LA Dodgers"
+        },
+        "home": {
+            "id": 109,
+            "abbreviation": "AZ",
+            "teamName": "D-backs",
+            "shortName": "Arizona"
+        }
+    },
+    "playerInfo": {
+        "ID669257": {
+            "id": 669257,
+            "fullName": "Will Smith",
+            "boxscoreName": "Smith, W.D."
+        },
+        "ID645444": {
+            "id": 645444,
+            "fullName": "Jose Herrera",
+            "boxscoreName": "Herrera, J"
+        },
+        "ID641360": {
+            "id": 641360,
+            "fullName": "Phil Bickford",
+            "boxscoreName": "Bickford"
+        },
+        "ID621035": {
+            "id": 621035,
+            "fullName": "Chris Taylor",
+            "boxscoreName": "Taylor, Ch"
+        },
+        "ID592789": {
+            "id": 592789,
+            "fullName": "Noah Syndergaard",
+            "boxscoreName": "Syndergaard"
+        },
+        "ID669459": {
+            "id": 669459,
+            "fullName": "Kyle Nelson",
+            "boxscoreName": "Nelson, K"
+        },
+        "ID686753": {
+            "id": 686753,
+            "fullName": "Drey Jameson",
+            "boxscoreName": "Jameson"
+        },
+        "ID666818": {
+            "id": 666818,
+            "fullName": "Luis Fr\u00edas",
+            "boxscoreName": "Fr\u00edas"
+        },
+        "ID656464": {
+            "id": 656464,
+            "fullName": "Kevin Ginkel",
+            "boxscoreName": "Ginkel"
+        },
+        "ID571970": {
+            "id": 571970,
+            "fullName": "Max Muncy",
+            "boxscoreName": "Muncy"
+        },
+        "ID605113": {
+            "id": 605113,
+            "fullName": "Nick Ahmed",
+            "boxscoreName": "Ahmed"
+        },
+        "ID518692": {
+            "id": 518692,
+            "fullName": "Freddie Freeman",
+            "boxscoreName": "Freeman, F"
+        },
+        "ID502110": {
+            "id": 502110,
+            "fullName": "J.D. Martinez",
+            "boxscoreName": "Martinez, J"
+        },
+        "ID628711": {
+            "id": 628711,
+            "fullName": "Julio Ur\u00edas",
+            "boxscoreName": "Ur\u00edas, J"
+        },
+        "ID623465": {
+            "id": 623465,
+            "fullName": "Evan Phillips",
+            "boxscoreName": "Phillips, E"
+        },
+        "ID477132": {
+            "id": 477132,
+            "fullName": "Clayton Kershaw",
+            "boxscoreName": "Kershaw"
+        },
+        "ID572204": {
+            "id": 572204,
+            "fullName": "Trayce Thompson",
+            "boxscoreName": "Thompson, T"
+        },
+        "ID605200": {
+            "id": 605200,
+            "fullName": "Zach Davies",
+            "boxscoreName": "Davies"
+        },
+        "ID500743": {
+            "id": 500743,
+            "fullName": "Miguel Rojas",
+            "boxscoreName": "Rojas, M"
+        },
+        "ID446334": {
+            "id": 446334,
+            "fullName": "Evan Longoria",
+            "boxscoreName": "Longoria"
+        },
+        "ID678246": {
+            "id": 678246,
+            "fullName": "Miguel Vargas",
+            "boxscoreName": "Vargas, M"
+        },
+        "ID677950": {
+            "id": 677950,
+            "fullName": "Alek Thomas",
+            "boxscoreName": "Thomas, A"
+        },
+        "ID543518": {
+            "id": 543518,
+            "fullName": "Scott McGough",
+            "boxscoreName": "McGough"
+        },
+        "ID518516": {
+            "id": 518516,
+            "fullName": "Madison Bumgarner",
+            "boxscoreName": "Bumgarner"
+        },
+        "ID681911": {
+            "id": 681911,
+            "fullName": "Alex Vesia",
+            "boxscoreName": "Vesia"
+        },
+        "ID571946": {
+            "id": 571946,
+            "fullName": "Shelby Miller",
+            "boxscoreName": "Miller, S"
+        },
+        "ID668942": {
+            "id": 668942,
+            "fullName": "Josh Rojas",
+            "boxscoreName": "Rojas, J"
+        },
+        "ID518876": {
+            "id": 518876,
+            "fullName": "Merrill Kelly",
+            "boxscoreName": "Kelly, M"
+        },
+        "ID605131": {
+            "id": 605131,
+            "fullName": "Austin Barnes",
+            "boxscoreName": "Barnes, A"
+        },
+        "ID664983": {
+            "id": 664983,
+            "fullName": "Jake McCarthy",
+            "boxscoreName": "McCarthy"
+        },
+        "ID605177": {
+            "id": 605177,
+            "fullName": "Andrew Chafin",
+            "boxscoreName": "Chafin"
+        },
+        "ID606466": {
+            "id": 606466,
+            "fullName": "Ketel Marte",
+            "boxscoreName": "Marte, K"
+        },
+        "ID518792": {
+            "id": 518792,
+            "fullName": "Jason Heyward",
+            "boxscoreName": "Heyward"
+        },
+        "ID657571": {
+            "id": 657571,
+            "fullName": "Caleb Ferguson",
+            "boxscoreName": "Ferguson"
+        },
+        "ID660813": {
+            "id": 660813,
+            "fullName": "Brusdar Graterol",
+            "boxscoreName": "Graterol"
+        },
+        "ID669194": {
+            "id": 669194,
+            "fullName": "Ryne Nelson",
+            "boxscoreName": "Nelson, R"
+        },
+        "ID444482": {
+            "id": 444482,
+            "fullName": "David Peralta",
+            "boxscoreName": "Peralta"
+        },
+        "ID672695": {
+            "id": 672695,
+            "fullName": "Geraldo Perdomo",
+            "boxscoreName": "Perdomo"
+        },
+        "ID675627": {
+            "id": 675627,
+            "fullName": "Michael Grove",
+            "boxscoreName": "Grove"
+        },
+        "ID672515": {
+            "id": 672515,
+            "fullName": "Gabriel Moreno",
+            "boxscoreName": "Moreno"
+        },
+        "ID622075": {
+            "id": 622075,
+            "fullName": "Yency Almonte",
+            "boxscoreName": "Almonte"
+        },
+        "ID681546": {
+            "id": 681546,
+            "fullName": "James Outman",
+            "boxscoreName": "Outman"
+        },
+        "ID668678": {
+            "id": 668678,
+            "fullName": "Zac Gallen",
+            "boxscoreName": "Gallen"
+        },
+        "ID682998": {
+            "id": 682998,
+            "fullName": "Corbin Carroll",
+            "boxscoreName": "Carroll"
+        },
+        "ID666971": {
+            "id": 666971,
+            "fullName": "Lourdes Gurriel Jr.",
+            "boxscoreName": "Gurriel Jr."
+        },
+        "ID605141": {
+            "id": 605141,
+            "fullName": "Mookie Betts",
+            "boxscoreName": "Betts"
+        },
+        "ID572233": {
+            "id": 572233,
+            "fullName": "Christian Walker",
+            "boxscoreName": "Walker, C"
+        },
+        "ID612434": {
+            "id": 612434,
+            "fullName": "Miguel Castro",
+            "boxscoreName": "Castro"
+        },
+        "ID669160": {
+            "id": 669160,
+            "fullName": "Dustin May",
+            "boxscoreName": "May"
+        },
+        "ID656976": {
+            "id": 656976,
+            "fullName": "Pavin Smith",
+            "boxscoreName": "Smith, P"
+        },
+        "ID656578": {
+            "id": 656578,
+            "fullName": "Andre Jackson",
+            "boxscoreName": "Jackson"
+        },
+        "ID672841": {
+            "id": 672841,
+            "fullName": "Carlos Vargas",
+            "boxscoreName": "Vargas"
+        }
+    },
+    "away": {
+        "team": {
+            "id": 119
+        },
+        "teamStats": {
+            "batting": {
+                "runs": 8,
+                "doubles": 5,
+                "triples": 0,
+                "homeRuns": 2,
+                "strikeOuts": 9,
+                "baseOnBalls": 5,
+                "hits": 11,
+                "avg": ".251",
+                "atBats": 35,
+                "obp": ".370",
+                "slg": ".516",
+                "ops": ".886",
+                "stolenBases": 0,
+                "rbi": 8,
+                "leftOnBase": 12
+            },
+            "pitching": {
+                "runs": 12,
+                "doubles": 4,
+                "triples": 2,
+                "homeRuns": 2,
+                "strikeOuts": 6,
+                "baseOnBalls": 0,
+                "hits": 17,
+                "atBats": 39,
+                "obp": ".452",
+                "stolenBases": 2,
+                "numberOfPitches": 138,
+                "era": "3.76",
+                "inningsPitched": "8.0",
+                "earnedRuns": 12,
+                "pitchesThrown": 138,
+                "strikes": 95,
+                "rbi": 12
+            }
+        },
+        "players": {
+            "ID669257": {
+                "person": {
+                    "id": 669257,
+                    "fullName": "Will Smith"
+                },
+                "jerseyNumber": "16",
+                "position": {
+                    "abbreviation": "C"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "300",
+                "stats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 1,
+                        "hits": 1,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 2
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 7,
+                        "doubles": 3,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 5,
+                        "hits": 10,
+                        "avg": ".370",
+                        "atBats": 27,
+                        "obp": ".455",
+                        "slg": ".815",
+                        "ops": "1.270",
+                        "stolenBases": 0,
+                        "rbi": 11,
+                        "leftOnBase": 16
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "C"
+                    }
+                ]
+            },
+            "ID641360": {
+                "person": {
+                    "id": 641360,
+                    "fullName": "Phil Bickford"
+                },
+                "jerseyNumber": "52",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 2,
+                        "doubles": 4,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 7,
+                        "baseOnBalls": 1,
+                        "hits": 4,
+                        "atBats": 14,
+                        "obp": ".333",
+                        "stolenBases": 0,
+                        "numberOfPitches": 69,
+                        "era": "5.40",
+                        "inningsPitched": "3.1",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 1,
+                        "blownSaves": 0,
+                        "earnedRuns": 2,
+                        "pitchesThrown": 69,
+                        "strikes": 44,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID621035": {
+                "person": {
+                    "id": 621035,
+                    "fullName": "Chris Taylor"
+                },
+                "jerseyNumber": "3",
+                "position": {
+                    "abbreviation": "SS"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "900",
+                "stats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 1,
+                        "hits": 0,
+                        "atBats": 3,
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 2,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 9,
+                        "baseOnBalls": 2,
+                        "hits": 3,
+                        "avg": ".125",
+                        "atBats": 24,
+                        "obp": ".185",
+                        "slg": ".375",
+                        "ops": ".560",
+                        "stolenBases": 0,
+                        "rbi": 5,
+                        "leftOnBase": 11
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "SS"
+                    }
+                ]
+            },
+            "ID681911": {
+                "person": {
+                    "id": 681911,
+                    "fullName": "Alex Vesia"
+                },
+                "jerseyNumber": "51",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 2,
+                        "atBats": 5,
+                        "stolenBases": 1,
+                        "numberOfPitches": 20,
+                        "inningsPitched": "1.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 1,
+                        "pitchesThrown": 20,
+                        "strikes": 13,
+                        "rbi": 1
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 4,
+                        "doubles": 2,
+                        "triples": 1,
+                        "homeRuns": 1,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 8,
+                        "atBats": 17,
+                        "obp": ".471",
+                        "stolenBases": 1,
+                        "numberOfPitches": 71,
+                        "era": "12.00",
+                        "inningsPitched": "3.0",
+                        "wins": 0,
+                        "losses": 1,
+                        "holds": 0,
+                        "blownSaves": 1,
+                        "earnedRuns": 4,
+                        "pitchesThrown": 71,
+                        "strikes": 43,
+                        "rbi": 1
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            },
+            "ID571946": {
+                "person": {
+                    "id": 571946,
+                    "fullName": "Shelby Miller"
+                },
+                "jerseyNumber": "18",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 1,
+                        "hits": 0,
+                        "atBats": 10,
+                        "obp": ".091",
+                        "stolenBases": 0,
+                        "numberOfPitches": 55,
+                        "era": "0.00",
+                        "inningsPitched": "3.1",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "pitchesThrown": 55,
+                        "strikes": 36,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID592789": {
+                "person": {
+                    "id": 592789,
+                    "fullName": "Noah Syndergaard"
+                },
+                "jerseyNumber": "43",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "note": "(L, 0-1)",
+                        "runs": 6,
+                        "doubles": 2,
+                        "triples": 1,
+                        "homeRuns": 2,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 8,
+                        "atBats": 20,
+                        "stolenBases": 1,
+                        "numberOfPitches": 72,
+                        "inningsPitched": "4.0",
+                        "wins": 0,
+                        "losses": 1,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 6,
+                        "pitchesThrown": 72,
+                        "strikes": 49,
+                        "rbi": 6
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 7,
+                        "doubles": 3,
+                        "triples": 1,
+                        "homeRuns": 2,
+                        "strikeOuts": 8,
+                        "baseOnBalls": 0,
+                        "hits": 12,
+                        "atBats": 42,
+                        "obp": ".318",
+                        "stolenBases": 3,
+                        "numberOfPitches": 150,
+                        "era": "6.30",
+                        "inningsPitched": "10.0",
+                        "wins": 0,
+                        "losses": 1,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 7,
+                        "pitchesThrown": 150,
+                        "strikes": 106,
+                        "rbi": 6
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            },
+            "ID605131": {
+                "person": {
+                    "id": 605131,
+                    "fullName": "Austin Barnes"
+                },
+                "jerseyNumber": "15",
+                "position": {
+                    "abbreviation": "C"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 9,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 2
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID571970": {
+                "person": {
+                    "id": 571970,
+                    "fullName": "Max Muncy"
+                },
+                "jerseyNumber": "13",
+                "position": {
+                    "abbreviation": "3B"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "400",
+                "stats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 1,
+                        "atBats": 5,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 2
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 6,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 15,
+                        "baseOnBalls": 5,
+                        "hits": 4,
+                        "avg": ".129",
+                        "atBats": 31,
+                        "obp": ".270",
+                        "slg": ".226",
+                        "ops": ".496",
+                        "stolenBases": 0,
+                        "rbi": 2,
+                        "leftOnBase": 23
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "3B"
+                    }
+                ]
+            },
+            "ID518792": {
+                "person": {
+                    "id": 518792,
+                    "fullName": "Jason Heyward"
+                },
+                "jerseyNumber": "23",
+                "position": {
+                    "abbreviation": "CF"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "800",
+                "stats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 1,
+                        "hits": 1,
+                        "atBats": 3,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 4,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 2,
+                        "hits": 4,
+                        "avg": ".308",
+                        "atBats": 13,
+                        "obp": ".375",
+                        "slg": "1.000",
+                        "ops": "1.375",
+                        "stolenBases": 0,
+                        "rbi": 5,
+                        "leftOnBase": 5
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "CF"
+                    }
+                ]
+            },
+            "ID657571": {
+                "person": {
+                    "id": 657571,
+                    "fullName": "Caleb Ferguson"
+                },
+                "jerseyNumber": "64",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 1,
+                        "hits": 1,
+                        "atBats": 9,
+                        "obp": ".273",
+                        "stolenBases": 1,
+                        "numberOfPitches": 45,
+                        "era": "0.00",
+                        "inningsPitched": "3.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "pitchesThrown": 45,
+                        "strikes": 26,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID518692": {
+                "person": {
+                    "id": 518692,
+                    "fullName": "Freddie Freeman"
+                },
+                "jerseyNumber": "5",
+                "position": {
+                    "abbreviation": "1B"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "200",
+                "stats": {
+                    "batting": {
+                        "runs": 2,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 4,
+                        "atBats": 5,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 3
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 8,
+                        "doubles": 4,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 7,
+                        "hits": 15,
+                        "avg": ".429",
+                        "atBats": 35,
+                        "obp": ".524",
+                        "slg": ".629",
+                        "ops": "1.153",
+                        "stolenBases": 0,
+                        "rbi": 2,
+                        "leftOnBase": 14
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "1B"
+                    }
+                ]
+            },
+            "ID660813": {
+                "person": {
+                    "id": 660813,
+                    "fullName": "Brusdar Graterol"
+                },
+                "jerseyNumber": "48",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "runs": 2,
+                        "doubles": 1,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 2,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "numberOfPitches": 16,
+                        "inningsPitched": "1.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 2,
+                        "pitchesThrown": 16,
+                        "strikes": 12,
+                        "rbi": 2
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 3,
+                        "doubles": 2,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 6,
+                        "atBats": 16,
+                        "obp": ".353",
+                        "stolenBases": 1,
+                        "numberOfPitches": 52,
+                        "era": "6.75",
+                        "inningsPitched": "4.0",
+                        "wins": 0,
+                        "losses": 1,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 3,
+                        "pitchesThrown": 52,
+                        "strikes": 33,
+                        "rbi": 2
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            },
+            "ID444482": {
+                "person": {
+                    "id": 444482,
+                    "fullName": "David Peralta"
+                },
+                "jerseyNumber": "6",
+                "position": {
+                    "abbreviation": "RF"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "101",
+                "stats": {
+                    "batting": {
+                        "note": "a-",
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 1,
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 1,
+                        "hits": 3,
+                        "avg": ".167",
+                        "atBats": 18,
+                        "obp": ".211",
+                        "slg": ".167",
+                        "ops": ".378",
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 3
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "PH"
+                    },
+                    {
+                        "abbreviation": "RF"
+                    }
+                ]
+            },
+            "ID502110": {
+                "person": {
+                    "id": 502110,
+                    "fullName": "J.D. Martinez"
+                },
+                "jerseyNumber": "28",
+                "position": {
+                    "abbreviation": "DH"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "500",
+                "stats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 2,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 1
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 5,
+                        "doubles": 5,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 13,
+                        "baseOnBalls": 3,
+                        "hits": 9,
+                        "avg": ".265",
+                        "atBats": 34,
+                        "obp": ".308",
+                        "slg": ".500",
+                        "ops": ".808",
+                        "stolenBases": 0,
+                        "rbi": 7,
+                        "leftOnBase": 16
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "DH"
+                    }
+                ]
+            },
+            "ID675627": {
+                "person": {
+                    "id": 675627,
+                    "fullName": "Michael Grove"
+                },
+                "jerseyNumber": "78",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 3,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 2,
+                        "hits": 2,
+                        "atBats": 14,
+                        "obp": ".250",
+                        "stolenBases": 0,
+                        "numberOfPitches": 63,
+                        "era": "6.75",
+                        "inningsPitched": "4.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 3,
+                        "pitchesThrown": 63,
+                        "strikes": 39,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID622075": {
+                "person": {
+                    "id": 622075,
+                    "fullName": "Yency Almonte"
+                },
+                "jerseyNumber": "38",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 3,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 1,
+                        "hits": 5,
+                        "atBats": 14,
+                        "obp": ".400",
+                        "stolenBases": 1,
+                        "numberOfPitches": 55,
+                        "era": "8.10",
+                        "inningsPitched": "3.1",
+                        "wins": 1,
+                        "losses": 0,
+                        "holds": 1,
+                        "blownSaves": 0,
+                        "earnedRuns": 3,
+                        "pitchesThrown": 55,
+                        "strikes": 36,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID628711": {
+                "person": {
+                    "id": 628711,
+                    "fullName": "Julio Ur\u00edas"
+                },
+                "jerseyNumber": "7",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 2,
+                        "doubles": 3,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 12,
+                        "baseOnBalls": 0,
+                        "hits": 9,
+                        "atBats": 41,
+                        "obp": ".233",
+                        "stolenBases": 0,
+                        "numberOfPitches": 166,
+                        "era": "1.50",
+                        "inningsPitched": "12.0",
+                        "wins": 2,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 2,
+                        "pitchesThrown": 166,
+                        "strikes": 117,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID681546": {
+                "person": {
+                    "id": 681546,
+                    "fullName": "James Outman"
+                },
+                "jerseyNumber": "33",
+                "position": {
+                    "abbreviation": "LF"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "600",
+                "stats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 1,
+                        "hits": 1,
+                        "atBats": 3,
+                        "stolenBases": 0,
+                        "rbi": 2,
+                        "leftOnBase": 1
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 7,
+                        "doubles": 0,
+                        "triples": 2,
+                        "homeRuns": 3,
+                        "strikeOuts": 11,
+                        "baseOnBalls": 7,
+                        "hits": 8,
+                        "avg": ".348",
+                        "atBats": 23,
+                        "obp": ".516",
+                        "slg": ".913",
+                        "ops": "1.429",
+                        "stolenBases": 1,
+                        "rbi": 9,
+                        "leftOnBase": 9
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "LF"
+                    }
+                ]
+            },
+            "ID623465": {
+                "person": {
+                    "id": 623465,
+                    "fullName": "Evan Phillips"
+                },
+                "jerseyNumber": "59",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 1,
+                        "atBats": 8,
+                        "obp": ".200",
+                        "stolenBases": 0,
+                        "numberOfPitches": 37,
+                        "era": "0.00",
+                        "inningsPitched": "3.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "pitchesThrown": 37,
+                        "strikes": 24,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID477132": {
+                "person": {
+                    "id": 477132,
+                    "fullName": "Clayton Kershaw"
+                },
+                "jerseyNumber": "22",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 5,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 13,
+                        "baseOnBalls": 2,
+                        "hits": 11,
+                        "atBats": 45,
+                        "obp": ".292",
+                        "stolenBases": 0,
+                        "numberOfPitches": 167,
+                        "era": "3.75",
+                        "inningsPitched": "12.0",
+                        "wins": 1,
+                        "losses": 1,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 5,
+                        "pitchesThrown": 167,
+                        "strikes": 114,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID572204": {
+                "person": {
+                    "id": 572204,
+                    "fullName": "Trayce Thompson"
+                },
+                "jerseyNumber": "25",
+                "position": {
+                    "abbreviation": "CF"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 3,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 6,
+                        "baseOnBalls": 2,
+                        "hits": 3,
+                        "avg": ".214",
+                        "atBats": 14,
+                        "obp": ".313",
+                        "slg": ".857",
+                        "ops": "1.170",
+                        "stolenBases": 0,
+                        "rbi": 8,
+                        "leftOnBase": 11
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID605141": {
+                "person": {
+                    "id": 605141,
+                    "fullName": "Mookie Betts"
+                },
+                "jerseyNumber": "50",
+                "position": {
+                    "abbreviation": "RF"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "100",
+                "stats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 1,
+                        "hits": 1,
+                        "atBats": 3,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 7,
+                        "doubles": 4,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 9,
+                        "baseOnBalls": 7,
+                        "hits": 8,
+                        "avg": ".258",
+                        "atBats": 31,
+                        "obp": ".410",
+                        "slg": ".484",
+                        "ops": ".894",
+                        "stolenBases": 0,
+                        "rbi": 2,
+                        "leftOnBase": 6
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "RF"
+                    }
+                ]
+            },
+            "ID500743": {
+                "person": {
+                    "id": 500743,
+                    "fullName": "Miguel Rojas"
+                },
+                "jerseyNumber": "11",
+                "position": {
+                    "abbreviation": "SS"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 1,
+                        "hits": 2,
+                        "avg": ".143",
+                        "atBats": 14,
+                        "obp": ".200",
+                        "slg": ".214",
+                        "ops": ".414",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 7
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID669160": {
+                "person": {
+                    "id": 669160,
+                    "fullName": "Dustin May"
+                },
+                "jerseyNumber": "85",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 1,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 9,
+                        "baseOnBalls": 3,
+                        "hits": 5,
+                        "atBats": 44,
+                        "obp": ".170",
+                        "stolenBases": 0,
+                        "numberOfPitches": 167,
+                        "era": "0.69",
+                        "inningsPitched": "13.0",
+                        "wins": 1,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 1,
+                        "pitchesThrown": 167,
+                        "strikes": 114,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID678246": {
+                "person": {
+                    "id": 678246,
+                    "fullName": "Miguel Vargas"
+                },
+                "jerseyNumber": "17",
+                "position": {
+                    "abbreviation": "2B"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "battingOrder": "700",
+                "stats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 3
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 4,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 5,
+                        "baseOnBalls": 11,
+                        "hits": 3,
+                        "avg": ".214",
+                        "atBats": 14,
+                        "obp": ".577",
+                        "slg": ".286",
+                        "ops": ".863",
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 7
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "2B"
+                    }
+                ]
+            },
+            "ID656578": {
+                "person": {
+                    "id": 656578,
+                    "fullName": "Andre Jackson"
+                },
+                "jerseyNumber": "44",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 119,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "runs": 3,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 5,
+                        "atBats": 10,
+                        "stolenBases": 0,
+                        "numberOfPitches": 30,
+                        "inningsPitched": "2.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 3,
+                        "pitchesThrown": 30,
+                        "strikes": 21,
+                        "rbi": 3
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 3,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 0,
+                        "hits": 6,
+                        "atBats": 21,
+                        "obp": ".286",
+                        "stolenBases": 0,
+                        "numberOfPitches": 72,
+                        "era": "5.40",
+                        "inningsPitched": "5.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 3,
+                        "pitchesThrown": 72,
+                        "strikes": 51,
+                        "rbi": 3
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            }
+        },
+        "batters": [
+            605141,
+            444482,
+            518692,
+            669257,
+            571970,
+            502110,
+            681546,
+            678246,
+            518792,
+            621035,
+            592789,
+            681911,
+            660813,
+            656578
+        ],
+        "pitchers": [
+            592789,
+            681911,
+            660813,
+            656578
+        ],
+        "bench": [
+            605131,
+            500743,
+            572204
+        ],
+        "bullpen": [
+            622075,
+            641360,
+            657571,
+            675627,
+            477132,
+            669160,
+            571946,
+            623465,
+            628711
+        ],
+        "battingOrder": [
+            444482,
+            518692,
+            669257,
+            571970,
+            502110,
+            681546,
+            678246,
+            518792,
+            621035
+        ],
+        "info": [
+            {
+                "title": "BATTING",
+                "fieldList": [
+                    {
+                        "label": "2B",
+                        "value": "Martinez, J 2 (5, Davies, Nelson, K); Betts (4, Ginkel); Freeman, F 2 (4, Ginkel, Fr\u00edas)."
+                    },
+                    {
+                        "label": "HR",
+                        "value": "Outman (3, 1st inning off Davies, 1 on, 2 out); Heyward (3, 8th inning off McGough, 0 on, 1 out)."
+                    },
+                    {
+                        "label": "TB",
+                        "value": "Betts 2; Freeman, F 6; Heyward 4; Martinez, J 4; Muncy; Outman 4; Smith, W.D."
+                    },
+                    {
+                        "label": "RBI",
+                        "value": "Betts (2); Freeman, F (2); Heyward (5); Martinez, J (7); Muncy (2); Outman 2 (9); Smith, W.D. (11)."
+                    },
+                    {
+                        "label": "2-out RBI",
+                        "value": "Outman 2; Freeman, F; Betts."
+                    },
+                    {
+                        "label": "Runners left in scoring position, 2 out",
+                        "value": "Freeman, F 2; Smith, W.D.; Vargas, M."
+                    },
+                    {
+                        "label": "SF",
+                        "value": "Martinez, J."
+                    },
+                    {
+                        "label": "GIDP",
+                        "value": "Martinez, J; Muncy."
+                    },
+                    {
+                        "label": "Team RISP",
+                        "value": "3-for-8."
+                    },
+                    {
+                        "label": "Team LOB",
+                        "value": "6."
+                    }
+                ]
+            },
+            {
+                "title": "FIELDING",
+                "fieldList": [
+                    {
+                        "label": "Outfield assists",
+                        "value": "Outman (Gurriel Jr. at 2nd base)."
+                    }
+                ]
+            }
+        ],
+        "note": [
+            {
+                "label": "a",
+                "value": "Grounded out for Betts in the 8th."
+            }
+        ]
+    },
+    "home": {
+        "team": {
+            "id": 109
+        },
+        "teamStats": {
+            "batting": {
+                "runs": 12,
+                "doubles": 4,
+                "triples": 2,
+                "homeRuns": 2,
+                "strikeOuts": 6,
+                "baseOnBalls": 0,
+                "hits": 17,
+                "avg": ".253",
+                "atBats": 39,
+                "obp": ".299",
+                "slg": ".422",
+                "ops": ".721",
+                "stolenBases": 2,
+                "rbi": 12,
+                "leftOnBase": 10
+            },
+            "pitching": {
+                "runs": 8,
+                "doubles": 5,
+                "triples": 0,
+                "homeRuns": 2,
+                "strikeOuts": 9,
+                "baseOnBalls": 5,
+                "hits": 11,
+                "atBats": 35,
+                "obp": ".390",
+                "stolenBases": 0,
+                "numberOfPitches": 159,
+                "era": "4.96",
+                "inningsPitched": "9.0",
+                "earnedRuns": 8,
+                "pitchesThrown": 159,
+                "strikes": 100,
+                "rbi": 8
+            }
+        },
+        "players": {
+            "ID645444": {
+                "person": {
+                    "id": 645444,
+                    "fullName": "Jose Herrera"
+                },
+                "jerseyNumber": "11",
+                "position": {
+                    "abbreviation": "C"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 1,
+                        "hits": 2,
+                        "avg": ".286",
+                        "atBats": 7,
+                        "obp": ".375",
+                        "slg": ".286",
+                        "ops": ".661",
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 4
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID543518": {
+                "person": {
+                    "id": 543518,
+                    "fullName": "Scott McGough"
+                },
+                "jerseyNumber": "30",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "note": "(H, 2)",
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 1,
+                        "atBats": 5,
+                        "stolenBases": 0,
+                        "numberOfPitches": 16,
+                        "inningsPitched": "1.1",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 1,
+                        "blownSaves": 0,
+                        "earnedRuns": 1,
+                        "pitchesThrown": 16,
+                        "strikes": 14,
+                        "rbi": 1
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 3,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 2,
+                        "hits": 3,
+                        "atBats": 10,
+                        "obp": ".417",
+                        "stolenBases": 0,
+                        "numberOfPitches": 45,
+                        "era": "11.57",
+                        "inningsPitched": "2.1",
+                        "wins": 0,
+                        "losses": 1,
+                        "holds": 2,
+                        "blownSaves": 1,
+                        "earnedRuns": 3,
+                        "pitchesThrown": 45,
+                        "strikes": 30,
+                        "rbi": 1
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            },
+            "ID518516": {
+                "person": {
+                    "id": 518516,
+                    "fullName": "Madison Bumgarner"
+                },
+                "jerseyNumber": "40",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 8,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 3,
+                        "strikeOuts": 7,
+                        "baseOnBalls": 10,
+                        "hits": 9,
+                        "atBats": 32,
+                        "obp": ".444",
+                        "stolenBases": 0,
+                        "numberOfPitches": 188,
+                        "era": "7.27",
+                        "inningsPitched": "8.2",
+                        "wins": 0,
+                        "losses": 1,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 7,
+                        "pitchesThrown": 188,
+                        "strikes": 101,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID669459": {
+                "person": {
+                    "id": 669459,
+                    "fullName": "Kyle Nelson"
+                },
+                "jerseyNumber": "24",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "note": "(W, 1-0)",
+                        "runs": 0,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 1,
+                        "hits": 1,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "numberOfPitches": 20,
+                        "inningsPitched": "1.0",
+                        "wins": 1,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "pitchesThrown": 20,
+                        "strikes": 13,
+                        "rbi": 0
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 1,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 6,
+                        "baseOnBalls": 1,
+                        "hits": 4,
+                        "atBats": 16,
+                        "obp": ".333",
+                        "stolenBases": 0,
+                        "numberOfPitches": 72,
+                        "era": "2.25",
+                        "inningsPitched": "4.0",
+                        "wins": 1,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 1,
+                        "pitchesThrown": 72,
+                        "strikes": 51,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            },
+            "ID668942": {
+                "person": {
+                    "id": 668942,
+                    "fullName": "Josh Rojas"
+                },
+                "jerseyNumber": "10",
+                "position": {
+                    "abbreviation": "3B"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "100",
+                "stats": {
+                    "batting": {
+                        "runs": 2,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 3,
+                        "atBats": 5,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 3,
+                        "doubles": 3,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 1,
+                        "hits": 7,
+                        "avg": ".368",
+                        "atBats": 19,
+                        "obp": ".381",
+                        "slg": ".526",
+                        "ops": ".907",
+                        "stolenBases": 1,
+                        "rbi": 4,
+                        "leftOnBase": 4
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "3B"
+                    }
+                ]
+            },
+            "ID686753": {
+                "person": {
+                    "id": 686753,
+                    "fullName": "Drey Jameson"
+                },
+                "jerseyNumber": "99",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 2,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 8,
+                        "baseOnBalls": 5,
+                        "hits": 5,
+                        "atBats": 29,
+                        "obp": ".294",
+                        "stolenBases": 0,
+                        "numberOfPitches": 130,
+                        "era": "2.16",
+                        "inningsPitched": "8.1",
+                        "wins": 2,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 2,
+                        "pitchesThrown": 130,
+                        "strikes": 75,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID518876": {
+                "person": {
+                    "id": 518876,
+                    "fullName": "Merrill Kelly"
+                },
+                "jerseyNumber": "29",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 4,
+                        "doubles": 4,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 8,
+                        "baseOnBalls": 8,
+                        "hits": 9,
+                        "atBats": 34,
+                        "obp": ".405",
+                        "stolenBases": 0,
+                        "numberOfPitches": 173,
+                        "era": "1.93",
+                        "inningsPitched": "9.1",
+                        "wins": 0,
+                        "losses": 1,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 2,
+                        "pitchesThrown": 173,
+                        "strikes": 99,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID664983": {
+                "person": {
+                    "id": 664983,
+                    "fullName": "Jake McCarthy"
+                },
+                "jerseyNumber": "31",
+                "position": {
+                    "abbreviation": "RF"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "600",
+                "stats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 5,
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 2
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 3,
+                        "doubles": 0,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 1,
+                        "hits": 5,
+                        "avg": ".192",
+                        "atBats": 26,
+                        "obp": ".276",
+                        "slg": ".269",
+                        "ops": ".545",
+                        "stolenBases": 2,
+                        "rbi": 1,
+                        "leftOnBase": 6
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "RF"
+                    }
+                ]
+            },
+            "ID605177": {
+                "person": {
+                    "id": 605177,
+                    "fullName": "Andrew Chafin"
+                },
+                "jerseyNumber": "57",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 2,
+                        "hits": 0,
+                        "atBats": 10,
+                        "obp": ".167",
+                        "stolenBases": 0,
+                        "numberOfPitches": 53,
+                        "era": "0.00",
+                        "inningsPitched": "3.1",
+                        "wins": 1,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "pitchesThrown": 53,
+                        "strikes": 30,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID666818": {
+                "person": {
+                    "id": 666818,
+                    "fullName": "Luis Fr\u00edas"
+                },
+                "jerseyNumber": "65",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "runs": 1,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 2,
+                        "atBats": 6,
+                        "stolenBases": 0,
+                        "numberOfPitches": 17,
+                        "inningsPitched": "1.2",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 1,
+                        "pitchesThrown": 17,
+                        "strikes": 12,
+                        "rbi": 1
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 1,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 2,
+                        "atBats": 6,
+                        "obp": ".333",
+                        "stolenBases": 0,
+                        "numberOfPitches": 17,
+                        "era": "5.40",
+                        "inningsPitched": "1.2",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 1,
+                        "pitchesThrown": 17,
+                        "strikes": 12,
+                        "rbi": 1
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            },
+            "ID656464": {
+                "person": {
+                    "id": 656464,
+                    "fullName": "Kevin Ginkel"
+                },
+                "jerseyNumber": "37",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "note": "(H, 1)",
+                        "runs": 1,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 2,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "numberOfPitches": 20,
+                        "inningsPitched": "0.2",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 1,
+                        "blownSaves": 0,
+                        "earnedRuns": 1,
+                        "pitchesThrown": 20,
+                        "strikes": 13,
+                        "rbi": 1
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 4,
+                        "doubles": 3,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 5,
+                        "baseOnBalls": 1,
+                        "hits": 4,
+                        "atBats": 17,
+                        "obp": ".263",
+                        "stolenBases": 0,
+                        "numberOfPitches": 74,
+                        "era": "7.71",
+                        "inningsPitched": "4.2",
+                        "wins": 1,
+                        "losses": 0,
+                        "holds": 1,
+                        "blownSaves": 0,
+                        "earnedRuns": 4,
+                        "pitchesThrown": 74,
+                        "strikes": 43,
+                        "rbi": 1
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            },
+            "ID605113": {
+                "person": {
+                    "id": 605113,
+                    "fullName": "Nick Ahmed"
+                },
+                "jerseyNumber": "13",
+                "position": {
+                    "abbreviation": "SS"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 2,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 0,
+                        "hits": 5,
+                        "avg": ".313",
+                        "atBats": 16,
+                        "obp": ".313",
+                        "slg": ".375",
+                        "ops": ".688",
+                        "stolenBases": 1,
+                        "rbi": 2,
+                        "leftOnBase": 4
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID606466": {
+                "person": {
+                    "id": 606466,
+                    "fullName": "Ketel Marte"
+                },
+                "jerseyNumber": "4",
+                "position": {
+                    "abbreviation": "2B"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "200",
+                "stats": {
+                    "batting": {
+                        "runs": 3,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 3,
+                        "atBats": 5,
+                        "stolenBases": 0,
+                        "rbi": 2,
+                        "leftOnBase": 1
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 5,
+                        "doubles": 5,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 5,
+                        "baseOnBalls": 0,
+                        "hits": 9,
+                        "avg": ".243",
+                        "atBats": 37,
+                        "obp": ".263",
+                        "slg": ".459",
+                        "ops": ".722",
+                        "stolenBases": 1,
+                        "rbi": 2,
+                        "leftOnBase": 12
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "2B"
+                    }
+                ]
+            },
+            "ID669194": {
+                "person": {
+                    "id": 669194,
+                    "fullName": "Ryne Nelson"
+                },
+                "jerseyNumber": "19",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 3,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 3,
+                        "hits": 6,
+                        "atBats": 20,
+                        "obp": ".391",
+                        "stolenBases": 0,
+                        "numberOfPitches": 97,
+                        "era": "5.40",
+                        "inningsPitched": "5.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 3,
+                        "pitchesThrown": 97,
+                        "strikes": 59,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID672695": {
+                "person": {
+                    "id": 672695,
+                    "fullName": "Geraldo Perdomo"
+                },
+                "jerseyNumber": "2",
+                "position": {
+                    "abbreviation": "SS"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "900",
+                "stats": {
+                    "batting": {
+                        "runs": 2,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 2,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "rbi": 3,
+                        "leftOnBase": 3
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 6,
+                        "doubles": 3,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 4,
+                        "baseOnBalls": 4,
+                        "hits": 5,
+                        "avg": ".455",
+                        "atBats": 11,
+                        "obp": ".625",
+                        "slg": "1.000",
+                        "ops": "1.625",
+                        "stolenBases": 1,
+                        "rbi": 7,
+                        "leftOnBase": 4
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "SS"
+                    }
+                ]
+            },
+            "ID672515": {
+                "person": {
+                    "id": 672515,
+                    "fullName": "Gabriel Moreno"
+                },
+                "jerseyNumber": "14",
+                "position": {
+                    "abbreviation": "C"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "700",
+                "stats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 1,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 1
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 3,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 5,
+                        "baseOnBalls": 0,
+                        "hits": 6,
+                        "avg": ".240",
+                        "atBats": 25,
+                        "obp": ".231",
+                        "slg": ".360",
+                        "ops": ".591",
+                        "stolenBases": 0,
+                        "rbi": 3,
+                        "leftOnBase": 9
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "C"
+                    }
+                ]
+            },
+            "ID682998": {
+                "person": {
+                    "id": 682998,
+                    "fullName": "Corbin Carroll"
+                },
+                "jerseyNumber": "7",
+                "position": {
+                    "abbreviation": "LF"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "500",
+                "stats": {
+                    "batting": {
+                        "runs": 2,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 2,
+                        "baseOnBalls": 0,
+                        "hits": 1,
+                        "atBats": 4,
+                        "stolenBases": 2,
+                        "rbi": 0,
+                        "leftOnBase": 1
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 6,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 8,
+                        "baseOnBalls": 0,
+                        "hits": 9,
+                        "avg": ".257",
+                        "atBats": 35,
+                        "obp": ".278",
+                        "slg": ".457",
+                        "ops": ".735",
+                        "stolenBases": 5,
+                        "rbi": 3,
+                        "leftOnBase": 13
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "LF"
+                    }
+                ]
+            },
+            "ID668678": {
+                "person": {
+                    "id": 668678,
+                    "fullName": "Zac Gallen"
+                },
+                "jerseyNumber": "23",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 10,
+                        "doubles": 4,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 10,
+                        "baseOnBalls": 4,
+                        "hits": 13,
+                        "atBats": 45,
+                        "obp": ".347",
+                        "stolenBases": 0,
+                        "numberOfPitches": 175,
+                        "era": "7.59",
+                        "inningsPitched": "10.2",
+                        "wins": 0,
+                        "losses": 1,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 9,
+                        "pitchesThrown": 175,
+                        "strikes": 113,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID666971": {
+                "person": {
+                    "id": 666971,
+                    "fullName": "Lourdes Gurriel Jr."
+                },
+                "jerseyNumber": "12",
+                "position": {
+                    "abbreviation": "DH"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "300",
+                "stats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 1,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 3,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "rbi": 3,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 3,
+                        "doubles": 1,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 9,
+                        "baseOnBalls": 1,
+                        "hits": 8,
+                        "avg": ".229",
+                        "atBats": 35,
+                        "obp": ".263",
+                        "slg": ".314",
+                        "ops": ".577",
+                        "stolenBases": 0,
+                        "rbi": 5,
+                        "leftOnBase": 7
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "DH"
+                    }
+                ]
+            },
+            "ID572233": {
+                "person": {
+                    "id": 572233,
+                    "fullName": "Christian Walker"
+                },
+                "jerseyNumber": "53",
+                "position": {
+                    "abbreviation": "1B"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "400",
+                "stats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 2
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 1,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 6,
+                        "baseOnBalls": 2,
+                        "hits": 6,
+                        "avg": ".182",
+                        "atBats": 33,
+                        "obp": ".222",
+                        "slg": ".273",
+                        "ops": ".495",
+                        "stolenBases": 0,
+                        "rbi": 3,
+                        "leftOnBase": 11
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "1B"
+                    }
+                ]
+            },
+            "ID605200": {
+                "person": {
+                    "id": 605200,
+                    "fullName": "Zach Davies"
+                },
+                "jerseyNumber": "27",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {
+                        "runs": 5,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 4,
+                        "hits": 5,
+                        "atBats": 16,
+                        "stolenBases": 0,
+                        "numberOfPitches": 86,
+                        "inningsPitched": "4.1",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 5,
+                        "pitchesThrown": 86,
+                        "strikes": 48,
+                        "rbi": 5
+                    }
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 6,
+                        "doubles": 1,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 7,
+                        "baseOnBalls": 6,
+                        "hits": 9,
+                        "atBats": 35,
+                        "obp": ".357",
+                        "stolenBases": 0,
+                        "numberOfPitches": 169,
+                        "era": "5.79",
+                        "inningsPitched": "9.1",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 6,
+                        "pitchesThrown": 169,
+                        "strikes": 92,
+                        "rbi": 5
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "P"
+                    }
+                ]
+            },
+            "ID612434": {
+                "person": {
+                    "id": 612434,
+                    "fullName": "Miguel Castro"
+                },
+                "jerseyNumber": "50",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 5,
+                        "baseOnBalls": 2,
+                        "hits": 0,
+                        "atBats": 11,
+                        "obp": ".154",
+                        "stolenBases": 1,
+                        "numberOfPitches": 50,
+                        "era": "0.00",
+                        "inningsPitched": "3.2",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 1,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "pitchesThrown": 50,
+                        "strikes": 32,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID446334": {
+                "person": {
+                    "id": 446334,
+                    "fullName": "Evan Longoria"
+                },
+                "jerseyNumber": "3",
+                "position": {
+                    "abbreviation": "3B"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 5,
+                        "doubles": 2,
+                        "triples": 0,
+                        "homeRuns": 2,
+                        "strikeOuts": 3,
+                        "baseOnBalls": 1,
+                        "hits": 6,
+                        "avg": ".429",
+                        "atBats": 14,
+                        "obp": ".467",
+                        "slg": "1.000",
+                        "ops": "1.467",
+                        "stolenBases": 0,
+                        "rbi": 2,
+                        "leftOnBase": 5
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID656976": {
+                "person": {
+                    "id": 656976,
+                    "fullName": "Pavin Smith"
+                },
+                "jerseyNumber": "26",
+                "position": {
+                    "abbreviation": "DH"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            },
+            "ID677950": {
+                "person": {
+                    "id": 677950,
+                    "fullName": "Alek Thomas"
+                },
+                "jerseyNumber": "5",
+                "position": {
+                    "abbreviation": "CF"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "battingOrder": "800",
+                "stats": {
+                    "batting": {
+                        "runs": 2,
+                        "doubles": 0,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 4,
+                        "atBats": 4,
+                        "stolenBases": 0,
+                        "rbi": 1,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 3,
+                        "doubles": 0,
+                        "triples": 1,
+                        "homeRuns": 0,
+                        "strikeOuts": 1,
+                        "baseOnBalls": 3,
+                        "hits": 4,
+                        "avg": ".200",
+                        "atBats": 20,
+                        "obp": ".333",
+                        "slg": ".300",
+                        "ops": ".633",
+                        "stolenBases": 1,
+                        "rbi": 1,
+                        "leftOnBase": 10
+                    },
+                    "pitching": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "atBats": 0,
+                        "obp": ".000",
+                        "stolenBases": 0,
+                        "numberOfPitches": 0,
+                        "era": "-.--",
+                        "inningsPitched": "0.0",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 0,
+                        "strikes": 0,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {},
+                "allPositions": [
+                    {
+                        "abbreviation": "CF"
+                    }
+                ]
+            },
+            "ID672841": {
+                "person": {
+                    "id": 672841,
+                    "fullName": "Carlos Vargas"
+                },
+                "jerseyNumber": "45",
+                "position": {
+                    "abbreviation": "P"
+                },
+                "status": {},
+                "parentTeamId": 109,
+                "stats": {
+                    "batting": {},
+                    "pitching": {}
+                },
+                "seasonStats": {
+                    "batting": {
+                        "runs": 0,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 0,
+                        "strikeOuts": 0,
+                        "baseOnBalls": 0,
+                        "hits": 0,
+                        "avg": ".000",
+                        "atBats": 0,
+                        "obp": ".000",
+                        "slg": ".000",
+                        "ops": ".000",
+                        "stolenBases": 0,
+                        "rbi": 0,
+                        "leftOnBase": 0
+                    },
+                    "pitching": {
+                        "runs": 2,
+                        "doubles": 0,
+                        "triples": 0,
+                        "homeRuns": 1,
+                        "strikeOuts": 6,
+                        "baseOnBalls": 3,
+                        "hits": 3,
+                        "atBats": 11,
+                        "obp": ".467",
+                        "stolenBases": 0,
+                        "numberOfPitches": 55,
+                        "era": "6.75",
+                        "inningsPitched": "2.2",
+                        "wins": 0,
+                        "losses": 0,
+                        "holds": 0,
+                        "blownSaves": 0,
+                        "earnedRuns": 2,
+                        "pitchesThrown": 55,
+                        "strikes": 32,
+                        "rbi": 0
+                    }
+                },
+                "gameStatus": {}
+            }
+        },
+        "batters": [
+            668942,
+            606466,
+            666971,
+            572233,
+            682998,
+            664983,
+            672515,
+            677950,
+            672695,
+            605200,
+            669459,
+            656464,
+            543518,
+            666818
+        ],
+        "pitchers": [
+            605200,
+            669459,
+            656464,
+            543518,
+            666818
+        ],
+        "bench": [
+            605113,
+            645444,
+            446334,
+            656976
+        ],
+        "bullpen": [
+            518516,
+            612434,
+            605177,
+            668678,
+            686753,
+            518876,
+            669194,
+            672841
+        ],
+        "battingOrder": [
+            668942,
+            606466,
+            666971,
+            572233,
+            682998,
+            664983,
+            672515,
+            677950,
+            672695
+        ],
+        "info": [
+            {
+                "title": "BATTING",
+                "fieldList": [
+                    {
+                        "label": "2B",
+                        "value": "Marte, K (5, Syndergaard); Gurriel Jr. (1, Syndergaard); Rojas, J (3, Graterol); Perdomo (3, Jackson)."
+                    },
+                    {
+                        "label": "3B",
+                        "value": "Thomas, A (1, Syndergaard); Gurriel Jr. (1, Graterol)."
+                    },
+                    {
+                        "label": "HR",
+                        "value": "Perdomo (1, 2nd inning off Syndergaard, 1 on, 2 out); Marte, K (1, 2nd inning off Syndergaard, 1 on, 2 out)."
+                    },
+                    {
+                        "label": "TB",
+                        "value": "Carroll; Gurriel Jr. 6; Marte, K 7; Moreno; Perdomo 6; Rojas, J 4; Thomas, A 6."
+                    },
+                    {
+                        "label": "RBI",
+                        "value": "Gurriel Jr. 3 (5); Marte, K 2 (2); Moreno (3); Perdomo 3 (7); Rojas, J (4); Thomas, A (1); Walker, C (3)."
+                    },
+                    {
+                        "label": "2-out RBI",
+                        "value": "Gurriel Jr.; Thomas, A; Rojas, J; Moreno; Marte, K 2; Perdomo 3."
+                    },
+                    {
+                        "label": "Runners left in scoring position, 2 out",
+                        "value": "Carroll; Perdomo."
+                    },
+                    {
+                        "label": "SF",
+                        "value": "Walker, C."
+                    },
+                    {
+                        "label": "Team RISP",
+                        "value": "7-for-12."
+                    },
+                    {
+                        "label": "Team LOB",
+                        "value": "6."
+                    }
+                ]
+            },
+            {
+                "title": "BASERUNNING",
+                "fieldList": [
+                    {
+                        "label": "SB",
+                        "value": "Carroll 2 (5, 2nd base off Syndergaard/Smith, W.D., 2nd base off Vesia/Smith, W.D.)."
+                    }
+                ]
+            },
+            {
+                "title": "FIELDING",
+                "fieldList": [
+                    {
+                        "label": "DP",
+                        "value": "2 (Perdomo-Rojas, J-Walker, C; Perdomo-Marte, K-Walker, C)."
+                    }
+                ]
+            }
+        ],
+        "note": []
+    },
+    "awayBatters": [
+        {
+            "namefield": "Dodgers Batters",
+            "ab": "AB",
+            "r": "R",
+            "h": "H",
+            "doubles": "2B",
+            "triples": "3B",
+            "hr": "HR",
+            "rbi": "RBI",
+            "sb": "SB",
+            "bb": "BB",
+            "k": "K",
+            "lob": "LOB",
+            "avg": "AVG",
+            "ops": "OPS",
+            "personId": 0,
+            "substitution": false,
+            "note": "",
+            "name": "Dodgers Batters",
+            "position": "",
+            "obp": "OBP",
+            "slg": "SLG",
+            "battingOrder": ""
+        },
+        {
+            "namefield": "1 Betts  RF",
+            "ab": "3",
+            "r": "1",
+            "h": "1",
+            "doubles": "1",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "1",
+            "k": "0",
+            "lob": "0",
+            "avg": ".258",
+            "ops": ".894",
+            "personId": 605141,
+            "battingOrder": "100",
+            "substitution": false,
+            "note": "",
+            "name": "Betts",
+            "position": "RF",
+            "obp": ".410",
+            "slg": ".484"
+        },
+        {
+            "namefield": "    a-Peralta  RF",
+            "ab": "1",
+            "r": "0",
+            "h": "0",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "bb": "0",
+            "k": "0",
+            "lob": "0",
+            "avg": ".167",
+            "ops": ".378",
+            "personId": 444482,
+            "battingOrder": "101",
+            "substitution": true,
+            "note": "a-",
+            "name": "Peralta",
+            "position": "RF",
+            "obp": ".211",
+            "slg": ".167"
+        },
+        {
+            "namefield": "2 Freeman, F  1B",
+            "ab": "5",
+            "r": "2",
+            "h": "4",
+            "doubles": "2",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "0",
+            "k": "0",
+            "lob": "3",
+            "avg": ".429",
+            "ops": "1.153",
+            "personId": 518692,
+            "battingOrder": "200",
+            "substitution": false,
+            "note": "",
+            "name": "Freeman, F",
+            "position": "1B",
+            "obp": ".524",
+            "slg": ".629"
+        },
+        {
+            "namefield": "3 Smith, W.D.  C",
+            "ab": "4",
+            "r": "1",
+            "h": "1",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "1",
+            "k": "1",
+            "lob": "2",
+            "avg": ".370",
+            "ops": "1.270",
+            "personId": 669257,
+            "battingOrder": "300",
+            "substitution": false,
+            "note": "",
+            "name": "Smith, W.D.",
+            "position": "C",
+            "obp": ".455",
+            "slg": ".815"
+        },
+        {
+            "namefield": "4 Muncy  3B",
+            "ab": "5",
+            "r": "1",
+            "h": "1",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "0",
+            "k": "2",
+            "lob": "2",
+            "avg": ".129",
+            "ops": ".496",
+            "personId": 571970,
+            "battingOrder": "400",
+            "substitution": false,
+            "note": "",
+            "name": "Muncy",
+            "position": "3B",
+            "obp": ".270",
+            "slg": ".226"
+        },
+        {
+            "namefield": "5 Martinez, J  DH",
+            "ab": "4",
+            "r": "1",
+            "h": "2",
+            "doubles": "2",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "0",
+            "k": "0",
+            "lob": "1",
+            "avg": ".265",
+            "ops": ".808",
+            "personId": 502110,
+            "battingOrder": "500",
+            "substitution": false,
+            "note": "",
+            "name": "Martinez, J",
+            "position": "DH",
+            "obp": ".308",
+            "slg": ".500"
+        },
+        {
+            "namefield": "6 Outman  LF",
+            "ab": "3",
+            "r": "1",
+            "h": "1",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "1",
+            "rbi": "2",
+            "sb": "0",
+            "bb": "1",
+            "k": "2",
+            "lob": "1",
+            "avg": ".348",
+            "ops": "1.429",
+            "personId": 681546,
+            "battingOrder": "600",
+            "substitution": false,
+            "note": "",
+            "name": "Outman",
+            "position": "LF",
+            "obp": ".516",
+            "slg": ".913"
+        },
+        {
+            "namefield": "7 Vargas, M  2B",
+            "ab": "4",
+            "r": "0",
+            "h": "0",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "bb": "0",
+            "k": "1",
+            "lob": "3",
+            "avg": ".214",
+            "ops": ".863",
+            "personId": 678246,
+            "battingOrder": "700",
+            "substitution": false,
+            "note": "",
+            "name": "Vargas, M",
+            "position": "2B",
+            "obp": ".577",
+            "slg": ".286"
+        },
+        {
+            "namefield": "8 Heyward  CF",
+            "ab": "3",
+            "r": "1",
+            "h": "1",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "1",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "1",
+            "k": "1",
+            "lob": "0",
+            "avg": ".308",
+            "ops": "1.375",
+            "personId": 518792,
+            "battingOrder": "800",
+            "substitution": false,
+            "note": "",
+            "name": "Heyward",
+            "position": "CF",
+            "obp": ".375",
+            "slg": "1.000"
+        },
+        {
+            "namefield": "9 Taylor, Ch  SS",
+            "ab": "3",
+            "r": "0",
+            "h": "0",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "bb": "1",
+            "k": "2",
+            "lob": "0",
+            "avg": ".125",
+            "ops": ".560",
+            "personId": 621035,
+            "battingOrder": "900",
+            "substitution": false,
+            "note": "",
+            "name": "Taylor, Ch",
+            "position": "SS",
+            "obp": ".185",
+            "slg": ".375"
+        }
+    ],
+    "homeBatters": [
+        {
+            "namefield": "D-backs Batters",
+            "ab": "AB",
+            "r": "R",
+            "h": "H",
+            "doubles": "2B",
+            "triples": "3B",
+            "hr": "HR",
+            "rbi": "RBI",
+            "sb": "SB",
+            "bb": "BB",
+            "k": "K",
+            "lob": "LOB",
+            "avg": "AVG",
+            "ops": "OPS",
+            "personId": 0,
+            "substitution": false,
+            "note": "",
+            "name": "D-backs Batters",
+            "position": "",
+            "obp": "OBP",
+            "slg": "SLG",
+            "battingOrder": ""
+        },
+        {
+            "namefield": "1 Rojas, J  3B",
+            "ab": "5",
+            "r": "2",
+            "h": "3",
+            "doubles": "1",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "0",
+            "k": "0",
+            "lob": "0",
+            "avg": ".368",
+            "ops": ".907",
+            "personId": 668942,
+            "battingOrder": "100",
+            "substitution": false,
+            "note": "",
+            "name": "Rojas, J",
+            "position": "3B",
+            "obp": ".381",
+            "slg": ".526"
+        },
+        {
+            "namefield": "2 Marte, K  2B",
+            "ab": "5",
+            "r": "3",
+            "h": "3",
+            "doubles": "1",
+            "triples": "0",
+            "hr": "1",
+            "rbi": "2",
+            "sb": "0",
+            "bb": "0",
+            "k": "0",
+            "lob": "1",
+            "avg": ".243",
+            "ops": ".722",
+            "personId": 606466,
+            "battingOrder": "200",
+            "substitution": false,
+            "note": "",
+            "name": "Marte, K",
+            "position": "2B",
+            "obp": ".263",
+            "slg": ".459"
+        },
+        {
+            "namefield": "3 Gurriel Jr.  DH",
+            "ab": "4",
+            "r": "1",
+            "h": "3",
+            "doubles": "1",
+            "triples": "1",
+            "hr": "0",
+            "rbi": "3",
+            "sb": "0",
+            "bb": "0",
+            "k": "0",
+            "lob": "0",
+            "avg": ".229",
+            "ops": ".577",
+            "personId": 666971,
+            "battingOrder": "300",
+            "substitution": false,
+            "note": "",
+            "name": "Gurriel Jr.",
+            "position": "DH",
+            "obp": ".263",
+            "slg": ".314"
+        },
+        {
+            "namefield": "4 Walker, C  1B",
+            "ab": "4",
+            "r": "0",
+            "h": "0",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "0",
+            "k": "1",
+            "lob": "2",
+            "avg": ".182",
+            "ops": ".495",
+            "personId": 572233,
+            "battingOrder": "400",
+            "substitution": false,
+            "note": "",
+            "name": "Walker, C",
+            "position": "1B",
+            "obp": ".222",
+            "slg": ".273"
+        },
+        {
+            "namefield": "5 Carroll  LF",
+            "ab": "4",
+            "r": "2",
+            "h": "1",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "2",
+            "bb": "0",
+            "k": "2",
+            "lob": "1",
+            "avg": ".257",
+            "ops": ".735",
+            "personId": 682998,
+            "battingOrder": "500",
+            "substitution": false,
+            "note": "",
+            "name": "Carroll",
+            "position": "LF",
+            "obp": ".278",
+            "slg": ".457"
+        },
+        {
+            "namefield": "6 McCarthy  RF",
+            "ab": "5",
+            "r": "0",
+            "h": "0",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "0",
+            "sb": "0",
+            "bb": "0",
+            "k": "1",
+            "lob": "2",
+            "avg": ".192",
+            "ops": ".545",
+            "personId": 664983,
+            "battingOrder": "600",
+            "substitution": false,
+            "note": "",
+            "name": "McCarthy",
+            "position": "RF",
+            "obp": ".276",
+            "slg": ".269"
+        },
+        {
+            "namefield": "7 Moreno  C",
+            "ab": "4",
+            "r": "0",
+            "h": "1",
+            "doubles": "0",
+            "triples": "0",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "0",
+            "k": "1",
+            "lob": "1",
+            "avg": ".240",
+            "ops": ".591",
+            "personId": 672515,
+            "battingOrder": "700",
+            "substitution": false,
+            "note": "",
+            "name": "Moreno",
+            "position": "C",
+            "obp": ".231",
+            "slg": ".360"
+        },
+        {
+            "namefield": "8 Thomas, A  CF",
+            "ab": "4",
+            "r": "2",
+            "h": "4",
+            "doubles": "0",
+            "triples": "1",
+            "hr": "0",
+            "rbi": "1",
+            "sb": "0",
+            "bb": "0",
+            "k": "0",
+            "lob": "0",
+            "avg": ".200",
+            "ops": ".633",
+            "personId": 677950,
+            "battingOrder": "800",
+            "substitution": false,
+            "note": "",
+            "name": "Thomas, A",
+            "position": "CF",
+            "obp": ".333",
+            "slg": ".300"
+        },
+        {
+            "namefield": "9 Perdomo  SS",
+            "ab": "4",
+            "r": "2",
+            "h": "2",
+            "doubles": "1",
+            "triples": "0",
+            "hr": "1",
+            "rbi": "3",
+            "sb": "0",
+            "bb": "0",
+            "k": "1",
+            "lob": "3",
+            "avg": ".455",
+            "ops": "1.625",
+            "personId": 672695,
+            "battingOrder": "900",
+            "substitution": false,
+            "note": "",
+            "name": "Perdomo",
+            "position": "SS",
+            "obp": ".625",
+            "slg": "1.000"
+        }
+    ],
+    "awayBattingTotals": {
+        "namefield": "Totals",
+        "ab": "35",
+        "r": "8",
+        "h": "11",
+        "hr": "2",
+        "rbi": "8",
+        "bb": "5",
+        "k": "9",
+        "lob": "12",
+        "avg": "",
+        "ops": "",
+        "obp": "",
+        "slg": "",
+        "name": "Totals",
+        "position": "",
+        "note": "",
+        "substitution": false,
+        "battingOrder": "",
+        "personId": 0
+    },
+    "homeBattingTotals": {
+        "namefield": "Totals",
+        "ab": "39",
+        "r": "12",
+        "h": "17",
+        "hr": "2",
+        "rbi": "12",
+        "bb": "0",
+        "k": "6",
+        "lob": "10",
+        "avg": "",
+        "ops": "",
+        "obp": "",
+        "slg": "",
+        "name": "Totals",
+        "position": "",
+        "note": "",
+        "substitution": false,
+        "battingOrder": "",
+        "personId": 0
+    },
+    "awayBattingNotes": {
+        "0": "a-Grounded out for Betts in the 8th."
+    },
+    "homeBattingNotes": {},
+    "awayPitchers": [
+        {
+            "namefield": "Dodgers Pitchers",
+            "ip": "IP",
+            "h": "H",
+            "r": "R",
+            "er": "ER",
+            "bb": "BB",
+            "k": "K",
+            "hr": "HR",
+            "era": "ERA",
+            "p": "P",
+            "s": "S",
+            "name": "Dodgers Pitchers",
+            "personId": 0,
+            "note": ""
+        },
+        {
+            "namefield": "Syndergaard  (L, 0-1)",
+            "ip": "4.0",
+            "h": "8",
+            "r": "6",
+            "er": "6",
+            "bb": "0",
+            "k": "2",
+            "hr": "2",
+            "p": "72",
+            "s": "49",
+            "era": "6.30",
+            "name": "Syndergaard",
+            "personId": 592789,
+            "note": "(L, 0-1)"
+        },
+        {
+            "namefield": "Vesia",
+            "ip": "1.0",
+            "h": "2",
+            "r": "1",
+            "er": "1",
+            "bb": "0",
+            "k": "1",
+            "hr": "0",
+            "p": "20",
+            "s": "13",
+            "era": "12.00",
+            "name": "Vesia",
+            "personId": 681911,
+            "note": ""
+        },
+        {
+            "namefield": "Graterol",
+            "ip": "1.0",
+            "h": "2",
+            "r": "2",
+            "er": "2",
+            "bb": "0",
+            "k": "1",
+            "hr": "0",
+            "p": "16",
+            "s": "12",
+            "era": "6.75",
+            "name": "Graterol",
+            "personId": 660813,
+            "note": ""
+        },
+        {
+            "namefield": "Jackson",
+            "ip": "2.0",
+            "h": "5",
+            "r": "3",
+            "er": "3",
+            "bb": "0",
+            "k": "2",
+            "hr": "0",
+            "p": "30",
+            "s": "21",
+            "era": "5.40",
+            "name": "Jackson",
+            "personId": 656578,
+            "note": ""
+        }
+    ],
+    "homePitchers": [
+        {
+            "namefield": "D-backs Pitchers",
+            "ip": "IP",
+            "h": "H",
+            "r": "R",
+            "er": "ER",
+            "bb": "BB",
+            "k": "K",
+            "hr": "HR",
+            "era": "ERA",
+            "p": "P",
+            "s": "S",
+            "name": "Dodgers Pitchers",
+            "personId": 0,
+            "note": ""
+        },
+        {
+            "namefield": "Davies",
+            "ip": "4.1",
+            "h": "5",
+            "r": "5",
+            "er": "5",
+            "bb": "4",
+            "k": "3",
+            "hr": "1",
+            "p": "86",
+            "s": "48",
+            "era": "5.79",
+            "name": "Davies",
+            "personId": 605200,
+            "note": ""
+        },
+        {
+            "namefield": "Nelson, K  (W, 1-0)",
+            "ip": "1.0",
+            "h": "1",
+            "r": "0",
+            "er": "0",
+            "bb": "1",
+            "k": "1",
+            "hr": "0",
+            "p": "20",
+            "s": "13",
+            "era": "2.25",
+            "name": "Nelson, K",
+            "personId": 669459,
+            "note": "(W, 1-0)"
+        },
+        {
+            "namefield": "Ginkel  (H, 1)",
+            "ip": "0.2",
+            "h": "2",
+            "r": "1",
+            "er": "1",
+            "bb": "0",
+            "k": "1",
+            "hr": "0",
+            "p": "20",
+            "s": "13",
+            "era": "7.71",
+            "name": "Ginkel",
+            "personId": 656464,
+            "note": "(H, 1)"
+        },
+        {
+            "namefield": "McGough  (H, 2)",
+            "ip": "1.1",
+            "h": "1",
+            "r": "1",
+            "er": "1",
+            "bb": "0",
+            "k": "2",
+            "hr": "1",
+            "p": "16",
+            "s": "14",
+            "era": "11.57",
+            "name": "McGough",
+            "personId": 543518,
+            "note": "(H, 2)"
+        },
+        {
+            "namefield": "Fr\u00edas",
+            "ip": "1.2",
+            "h": "2",
+            "r": "1",
+            "er": "1",
+            "bb": "0",
+            "k": "2",
+            "hr": "0",
+            "p": "17",
+            "s": "12",
+            "era": "5.40",
+            "name": "Fr\u00edas",
+            "personId": 666818,
+            "note": ""
+        }
+    ],
+    "awayPitchingTotals": {
+        "namefield": "Totals",
+        "ip": "8.0",
+        "h": "17",
+        "r": "12",
+        "er": "12",
+        "bb": "0",
+        "k": "6",
+        "hr": "2",
+        "p": "",
+        "s": "",
+        "era": "",
+        "name": "Totals",
+        "personId": 0,
+        "note": ""
+    },
+    "homePitchingTotals": {
+        "namefield": "Totals",
+        "ip": "9.0",
+        "h": "11",
+        "r": "8",
+        "er": "8",
+        "bb": "5",
+        "k": "9",
+        "hr": "2",
+        "p": "",
+        "s": "",
+        "era": "",
+        "name": "Totals",
+        "personId": 0,
+        "note": ""
+    },
+    "gameBoxInfo": [
+        {
+            "label": "Balk",
+            "value": "Ginkel."
+        },
+        {
+            "label": "HBP",
+            "value": "Carroll (by Syndergaard); Gurriel Jr. (by Syndergaard)."
+        },
+        {
+            "label": "Pitches-strikes",
+            "value": "Syndergaard 72-49; Vesia 20-13; Graterol 16-12; Jackson 30-21; Davies 86-48; Nelson, K 20-13; Ginkel 20-13; McGough 16-14; Fr\u00edas 17-12."
+        },
+        {
+            "label": "Groundouts-flyouts",
+            "value": "Syndergaard 6-3; Vesia 0-1; Graterol 1-1; Jackson 2-0; Davies 4-3; Nelson, K 1-1; Ginkel 1-0; McGough 2-0; Fr\u00edas 2-0."
+        },
+        {
+            "label": "Batters faced",
+            "value": "Syndergaard 22; Vesia 5; Graterol 5; Jackson 10; Davies 21; Nelson, K 5; Ginkel 4; McGough 5; Fr\u00edas 6."
+        },
+        {
+            "label": "Umpires",
+            "value": "HP: Doug Eddings. 1B: Lance Barrett. 2B: Ramon De Jesus. 3B: Alfonso M\u00e1rquez. "
+        },
+        {
+            "label": "Weather",
+            "value": "81 degrees, Clear."
+        },
+        {
+            "label": "Wind",
+            "value": "4 mph, Out To CF."
+        },
+        {
+            "label": "First pitch",
+            "value": "5:10 PM."
+        },
+        {
+            "label": "T",
+            "value": "2:43."
+        },
+        {
+            "label": "Att",
+            "value": "26,881."
+        },
+        {
+            "label": "Venue",
+            "value": "Chase Field."
+        },
+        {
+            "label": "April 8, 2023"
+        }
+    ]
+}
