@@ -10,6 +10,9 @@
 
 
 #Useful Files
+
+#MLBImages(dir): Contains possible screenshots of some things you can do.
+
 #Player_List.py: Main file that perpetrates the CLI interaction with MLB data. This file is run in the CL to start the program.
 #MLBControlSystem.py: File that perpetrates user processing of data. Allows for searching, saving of strategies for batters and pitchers.
 #Modularized_Execute.py: Main data collection and processing file. Collects and saves game json's + fangraphs data. Creates and saves player metadata jsons.
