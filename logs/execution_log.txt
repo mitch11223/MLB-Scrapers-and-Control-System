@@ -667,3 +667,17 @@ Traceback (most recent call last):
     for filename in os.listdir("games/2024"):
                     ^^^^^^^^^^^^^^^^^^^^^^^^
 FileNotFoundError: [Errno 2] No such file or directory: 'games/2024'
+Traceback (most recent call last):
+  File "/Volumes/USB-3/Sports/MLB/Modularized_Execute.py", line 60, in <module>
+    collect_game_data(start_date='2024-03-28', end_date=today, team_id="", opponent_id="")
+  File "/Volumes/USB-3/Sports/MLB/Modularized_Execute.py", line 36, in collect_game_data
+    for filename in os.listdir("games/2024"):
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'games/2024'
+Traceback (most recent call last):
+  File "/Volumes/USB-3/Sports/MLB/Modularized_Execute.py", line 60, in <module>
+    collect_game_data(start_date='2024-03-28', end_date=today, team_id="", opponent_id="")
+  File "/Volumes/USB-3/Sports/MLB/Modularized_Execute.py", line 36, in collect_game_data
+    for filename in os.listdir("games/2024"):
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'games/2024'
